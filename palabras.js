@@ -1,0 +1,22 @@
+const words = [
+    'Perro',
+    'Vaca',
+    'Toro',
+    'Gato',
+    'Hormiga',
+    'Pato',
+    'Rana',
+    'Pajaro',
+    'Loro',
+    'Rinoceronte',
+    'Ajolote',
+    'Perico',
+    'Puma',
+    'Ornitorinco',
+    'Jirafa',
+    'Cigueña',
+    'Cuervo',
+    'Pez',
+    'Tiburon',
+    'Ballena'
+];
